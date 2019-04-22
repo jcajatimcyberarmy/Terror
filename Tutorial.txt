@@ -33,7 +33,7 @@ $git clone https://github.com/jcajatimcyberarmy/Terror
 $cd Terror
 $chmod +x ./install
 $./install
-$smsidsend
+$smsid send
 #Trus Disana Kalian Disuruh Masukkin
 Nomor Target Dan Pesan Kalian. Tools ini tidak
 ada Batasnya ea. Jadi kalian bisa kirim sesuka hati kalian
