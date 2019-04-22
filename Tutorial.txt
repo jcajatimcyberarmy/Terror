@@ -1,0 +1,41 @@
+Nih Tutorial Buat Tools Terror nih ea
+tools ini buat kalian yg suka maen unicode
+dari pada unicode mending ini
+gak ngelag. 
+
+Oke Caranya Langsung
+
+Untuk Yg call.php
+
+Cara :
+
+$apt update && apt upgrade
+$pkg install php
+$pkg install git
+$git clone https://github.com/jcajatimcyberarmy/Terror
+$cd Terror
+$php call.php
+#Trus Kalian Disana Disuruh Masukkin Nomor Target
+yg Mau Di Telfon, Tapi Ingat di Tools Ini Setiap Nomor Hanya Bisa Terkirim
+maksimal 6 telfon,
+
+Untuk Yg smsid
+mohon maaf ea Klo Gua Recode Karena
+ini Buat Kalian Yg Sering War Sama ADM
+
+Cara :
+
+
+$apt update && apt upgrade
+$pkg install php
+$pkg install git
+$git clone https://github.com/jcajatimcyberarmy/Terror
+$cd Terror
+$chmod +x ./install
+$./install
+$smsidsend
+#Trus Disana Kalian Disuruh Masukkin
+Nomor Target Dan Pesan Kalian. Tools ini tidak
+ada Batasnya ea. Jadi kalian bisa kirim sesuka hati kalian
+
+[DONE]
